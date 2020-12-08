@@ -7,6 +7,8 @@ public class gitTest {
 
 
         System.out.println("git test  分支1.0版本");
+
+        System.out.println("git test  分支2.0版本");
     }
 
 
