@@ -15,8 +15,8 @@ public class gitTest {
 
 
         System.out.println("git test  分支3.0版本");
-
-        System.out.println("git test  分支4.0版本");
+        
+        System.out.println("git test 别人的 分支4.0版本");
     }
 
 
