@@ -12,9 +12,9 @@ public class gitTest {
 
 
         System.out.println("版本2stash暂存起来之后做的新变化");
-        System.out.println("版本2stash暂存起来之后其他人做的新变化");
 
 
+        System.out.println("git test  分支3.0版本");
     }
 
 
